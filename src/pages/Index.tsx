@@ -4,7 +4,7 @@ import { Separator } from "@/components/ui/separator";
 import { useToast } from "@/hooks/use-toast";
 import { useAuth } from "@/contexts/AuthContext";
 import { HeroSection } from "@/components/HeroSection";
-import { RecipeCard } from "@/components/RecipeCard.tsx";
+import { RecipeCard } from "@/components/RecipeCard";
 import { LoadingState } from "@/components/LoadingState";
 import { FilterBar, RecipeFilters } from "@/components/FilterBar";
 import { generateRecipes, Recipe, saveRecipe, getSavedRecipes } from "@/services/recipeService";
