@@ -6,7 +6,7 @@ import { Card } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Camera, Upload, Sparkles, ChefHat } from "lucide-react";
 import { useToast } from "@/hooks/use-toast";
-import heroImage from "@/assets/hero-cooking.jpg";
+import heroImage from "../assets/hero-cooking.jpg";
 
 interface HeroSectionProps {
   onIngredientsSubmit: (ingredients: string[], dietaryPrefs: string[]) => void;
