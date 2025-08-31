@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 import { useToast } from "@/hooks/use-toast";
 import { useAuth } from "@/contexts/AuthContext";
 import { getSavedRecipes, Recipe } from "@/services/recipeService";
-import { RecipeCard } from "../components/RecipeCard.tsx";
+import { RecipeCard } from "@/components/RecipeCard.tsx";
 import { LoadingState } from "@/components/LoadingState";
 import { Heart, ChefHat, ArrowLeft } from "lucide-react";
 import { useNavigate } from "react-router-dom";
