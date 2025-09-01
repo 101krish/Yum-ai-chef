@@ -165,7 +165,6 @@ This project is licensed under the MIT License
 ## 👨‍💻 Author
 
 **Krish Maheshwari**
-- GitHub: [@your-github-username](https://github.com/krish-maheshwari1312)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- LinkedIn: [Krish  Maheshwari](https://linkedin.com/in/your-profile)
 
 ⭐ **Star this repository if you found it helpful!**
