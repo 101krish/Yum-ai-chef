@@ -1,0 +1,5 @@
+[33m043d256[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m Fix build script: Remove tsc -b to resolve path alias issues
+[33mdde66cf[m deleted the file
+[33m074a95f[m Fix: Force Git to recognize correct casing for RecipeCard
+[33m4c3add0[m Fix: Enforce consistent casing for RecipeCard component
+[33m68e2867[m Fix: Correct image import path and add type declarations
